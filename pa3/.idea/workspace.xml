@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80a71e26-f3f7-441f-860b-f44ab0442bce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZdmWm2cjiWy98sKCXxSn2tJ0gh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a71e26-f3f7-441f-860b-f44ab0442bce" name="Default Changelist" comment="" />
+      <created>1585177379062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585177379062</updated>
+      <workItem from="1585177382082" duration="103000" />
+      <workItem from="1585177490588" duration="538000" />
+      <workItem from="1585178151657" duration="15500000" />
+      <workItem from="1585201934371" duration="10000" />
+      <workItem from="1585349300623" duration="6184000" />
+      <workItem from="1585355615949" duration="2046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585351754759">
+      <screen x="60" y="23" width="1860" height="1057" />
+    </state>
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1585180217092" />
+    <state x="573" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585195495327" />
+    <state x="615" y="328" key="#com.intellij.fileTypes.FileTypeChooser/60.23.1860.1057@60.23.1860.1057" timestamp="1585351754759" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1585178140234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585178140234" />
+    <state x="619" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1585349300813">
+      <screen x="60" y="23" width="1860" height="1057" />
+    </state>
+    <state x="400" y="314" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585178172961" />
+    <state x="577" y="392" key="com.intellij.ide.util.TipDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585201936062" />
+    <state x="398" y="314" key="com.intellij.ide.util.TipDialog/46.23.1394.877@46.23.1394.877" timestamp="1585177384001" />
+    <state x="619" y="407" key="com.intellij.ide.util.TipDialog/60.23.1860.1057@60.23.1860.1057" timestamp="1585349300813" />
+    <state x="473" y="402" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585177508832">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="473" y="402" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/47.23.1393.877@47.23.1393.877" timestamp="1585177508832" />
+  </component>
+</project>
