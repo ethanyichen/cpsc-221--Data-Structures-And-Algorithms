@@ -23,3 +23,5 @@ https://www.students.cs.ubc.ca/~cs-221/2019W2/mps/p3/
 Process images and store pixels into Binary Search Tree
 
 Implemented Functions that group pixels with similar color to achieve blocky pixel effect with transformed images
+
+Labs Material (Algorithm and Data Structures)
